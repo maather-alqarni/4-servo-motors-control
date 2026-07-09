@@ -37,6 +37,3 @@ The video shows the servos sweeping for 2 seconds, then stopping at 90°.
 
 👉 https://drive.google.com/file/d/1DtlB9QzPrnYpuRZwmSueNQQLDL5CDyJd/view?usp=sharing
 
----
-## 👨‍💻 Created by
-Maather AlQarni
