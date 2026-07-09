@@ -1,4 +1,4 @@
-# 4 Servo Motors Control 🎮
+# Servo Motors Control 🎮
 
 This project demonstrates how to control four servo motors using an Arduino Uno and the Servo library.
 
